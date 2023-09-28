@@ -1,6 +1,6 @@
 # Machine Learning Framework
   **-  we need a framework for our Client. Can you make one PLEASE!**
-![image](https://github.com/hafeezbabar/MachineLearning-DataScience-BootCamp/assets/55141069/6837199f-55a0-4651-a1e0-9118579485c7 width="50" height="50")
+![image](https://github.com/hafeezbabar/MachineLearning-DataScience-BootCamp/assets/55141069/6837199f-55a0-4651-a1e0-9118579485c7)
 ![image](https://github.com/hafeezbabar/MachineLearning-DataScience-BootCamp/assets/55141069/6c880efc-7f36-4c9d-b4dc-f34fc9ccf096)
 
 ### 1. Problem Definition 
