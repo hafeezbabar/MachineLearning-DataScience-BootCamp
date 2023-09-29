@@ -9,10 +9,10 @@
 - Useful linear algebra, Fourier transform, and random number capabilities
 ![image](https://github.com/hafeezbabar/MachineLearning-DataScience-BootCamp/assets/55141069/a981db67-bfc3-4933-b43a-09cd09b6792f)
 
-. It is fast
-. Behind the scenes optimization written in C
-. Vectorization via broadcasting (avoiding loops)
-. Backbone to other python scientific packages
+- It is fast
+- Behind the scenes optimization written in C
+- Vectorization via broadcasting (avoiding loops)
+- Backbone to other python scientific packages
 
 ### We cover here:
  - Most useful function
