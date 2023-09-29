@@ -20,3 +20,4 @@ Hi, My friend said he wants to build a Machine Learning model. It is  easy right
  - Evaluating model predictions
  - Improving model predictions
  - Saving and loading models
+![image](https://github.com/hafeezbabar/MachineLearning-DataScience-BootCamp/assets/55141069/75b137a1-bdc5-49ad-a8e7-bd76b82f3ee3)
